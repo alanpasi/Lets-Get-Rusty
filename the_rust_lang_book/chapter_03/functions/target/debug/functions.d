@@ -1,0 +1,1 @@
+/home/alanpasi/dev/Rust/Learning/lets_get_rusty/the_rust_lang_book/chapter_03/functions/target/debug/functions: /home/alanpasi/dev/Rust/Learning/lets_get_rusty/the_rust_lang_book/chapter_03/functions/src/main.rs

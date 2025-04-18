@@ -1,0 +1,1 @@
+/home/alanpasi/dev/Rust/Learning/lets_get_rusty/the_rust_lang_book/chapter_03/data_types/target/debug/DataTypes: /home/alanpasi/dev/Rust/Learning/lets_get_rusty/the_rust_lang_book/chapter_03/data_types/src/main.rs

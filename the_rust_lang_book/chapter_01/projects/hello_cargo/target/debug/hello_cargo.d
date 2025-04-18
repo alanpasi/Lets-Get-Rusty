@@ -1,0 +1,1 @@
+/home/alanpasi/dev/Rust/Learning/lets_get_rusty/the_rust_lang_book/chapter_01/projects/hello_cargo/target/debug/hello_cargo: /home/alanpasi/dev/Rust/Learning/lets_get_rusty/the_rust_lang_book/chapter_01/projects/hello_cargo/src/main.rs
